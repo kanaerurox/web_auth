@@ -70,25 +70,6 @@ The application will start on `http://localhost:3000` by default. Open this URL 
 
 ---
 
-## Project Structure
-
-Here's an overview of the project structure:
-
-```
-/web_auth
-│
-├── /components       # Reusable UI components (e.g., buttons, forms, etc.)
-├── /pages           # Next.js pages (login, register, dashboard)
-├── /public          # Static assets (images, icons, etc.)
-├── /styles          # Global CSS and styles
-├── next.config.js   # Configuration file (database settings, etc.)
-├── .env             # Environment variables
-├── package.json     # Project metadata and dependencies
-└── README.md        # Project documentation
-```
-
----
-
 ## Technologies Used
 
 - **Next.js**: A React framework for building server-side rendered (SSR) applications.
