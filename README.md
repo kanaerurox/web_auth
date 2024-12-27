@@ -32,8 +32,8 @@ Before getting started with this project, ensure that you have the following ins
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/lostsaga-auth.git
-cd lostsaga-auth
+git clone https://github.com/Hexamouse/web_auth.git)
+cd web_auth
 ```
 
 ### 2. Install Dependencies
@@ -75,7 +75,7 @@ The application will start on `http://localhost:3000` by default. Open this URL 
 Here's an overview of the project structure:
 
 ```
-/lostsaga-auth
+/web_auth
 │
 ├── /components       # Reusable UI components (e.g., buttons, forms, etc.)
 ├── /pages           # Next.js pages (login, register, dashboard)
@@ -133,15 +133,6 @@ To contribute, follow these steps:
 4. Make your changes and commit them.
 5. Push your changes to your forked repository.
 6. Submit a pull request to the main repository.
-
----
-
-## Contact
-
-For further questions or collaboration, you can contact the project maintainer:
-
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-profile](https://github.com/yourusername)
 
 ---
 
