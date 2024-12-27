@@ -1,4 +1,3 @@
-```markdown
 # LostSaga Authentication Web
 
 This is a simple web application for handling user authentication in LostSaga. The website includes the following features:
