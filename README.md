@@ -1,5 +1,3 @@
-Certainly! Below is a complete `README.md` file for your project, formatted for clarity and with additional sections such as installation instructions, setup, technologies, and more.
-
 ```markdown
 # LostSaga Authentication Web
 
