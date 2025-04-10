@@ -8,7 +8,7 @@
 //     \|__|     \|__|\___/ /       |\_________\   \|__|  \|__|\|_______|\|__|\|__|\|_______/__/ /\ __\ 
 //                   \|___|/        \|_________|                                            |__|/ \|__| 
 //                                                                                                     
-// Copyright © 2024 Mysticalx. All rights reserved.
+// Copyright © 2025 Ruby Saga. All rights reserved.
 
 import { NextResponse } from "next/server";
 import sql from "mssql";
